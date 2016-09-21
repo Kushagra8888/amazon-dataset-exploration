@@ -1,0 +1,5 @@
+#idea project configuration
+.idea/
+
+#data folder
+data/
